@@ -16,3 +16,4 @@
 | BSL P12      | Fix the error(s) in a call to an image primitive. | Easy | [BSL P12](bsl_p12.rkt) | strs-imgs |
 | BSL P13      | Write an arithmetic expression. | Easy | [BSL P13](bsl_p13.rkt) | exprs |
 | BSL P14      | Write an expression that operates on images using image primitives. | Easy | [BSL P14](bsl_p14.rkt) | strs-imgs |
+| BSL P15      | Write a function that produces the larger of two given numbers. | Easy | [BSL P15](bsl_p15.rkt) | fun-def |
