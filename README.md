@@ -9,3 +9,4 @@
 | BSL P5      | Write expressions to operate on booleans using primitives. | Easy | [BSL P5](bsl_p5.rkt) | bools-if-exprs |
 | BSL P6      | Step by step evaluation of a call to a function that calls a number primitive in its body. | Easy | [BSL P6](bsl_p6.rkt) | stepper |
 | BSL P7      | Step by step evaluation of a call to a function that calls a string primitive in its body. | Easy | [BSL P7](bsl_p7.rkt) | stepper |
+| BSL P8      | Write expression to produce background image of Canadian flag. | Easy | [BSL P8](bsl_p8.rkt) | strs-imgs |
