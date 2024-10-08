@@ -12,3 +12,4 @@
 | BSL P8      | Write expression to produce background image of Canadian flag. | Easy | [BSL P8](bsl_p8.rkt) | strs-imgs |
 | BSL P9      | Write even more arithmetic expressions. | Easy | [BSL P9](bsl_p9.rkt) | exprs |
 | BSL P10      | Write an expression that operates on images using image primitives. | Easy | [BSL P10](bsl_p10.rkt) | strs-imgs |
+| BSL P11      | Step by step evaluation of a call to a function that has an if expression in its body. | Easy | [BSL P11](bsl_p11.rkt) | stepper |
