@@ -15,3 +15,4 @@
 | BSL P11      | Step by step evaluation of a call to a function that has an if expression in its body. | Easy | [BSL P11](bsl_p11.rkt) | stepper |
 | BSL P12      | Fix the error(s) in a call to an image primitive. | Easy | [BSL P12](bsl_p12.rkt) | strs-imgs |
 | BSL P13      | Write an arithmetic expression. | Easy | [BSL P13](bsl_p13.rkt) | exprs |
+| BSL P14      | Write an expression that operates on images using image primitives. | Easy | [BSL P14](bsl_p14.rkt) | strs-imgs |
