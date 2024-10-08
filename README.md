@@ -7,3 +7,4 @@
 | BSL P3      | Create an image using image composition primitives. | Easy | [BSL P3](bsl_p3.rkt) | strs-imgs |
 | BSL P4      | Write expressions to operate on strings using primitives. | Medium | [BSL P4](bsl_p4.rkt) | strs-imgs |
 | BSL P5      | Write expressions to operate on booleans using primitives. | Easy | [BSL P5](bsl_p5.rkt) | bools-if-exprs |
+| BSL P6      | Step by step evaluation of a call to a function that calls a number primitive in its body. | Easy | [BSL P6](bsl_p6.rkt) | stepper |
