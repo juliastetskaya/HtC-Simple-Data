@@ -18,3 +18,4 @@
 | BSL P14      | Write an expression that operates on images using image primitives. | Easy | [BSL P14](bsl_p14.rkt) | strs-imgs |
 | BSL P15      | Write a function that produces the larger of two given numbers. | Easy | [BSL P15](bsl_p15.rkt) | fun-def |
 | BSL P16      | Step by step evaluation of a call to a function that has an if expression in its body. | Medium | [BSL P16](bsl_p16.rkt) | stepper |
+| HtDF L1      | Design a function to yell! | Medium | [HtDF L1](htdf_l1.rkt) | yell |
