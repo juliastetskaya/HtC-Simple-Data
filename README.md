@@ -19,3 +19,4 @@
 | BSL P15      | Write a function that produces the larger of two given numbers. | Easy | [BSL P15](bsl_p15.rkt) | fun-def |
 | BSL P16      | Step by step evaluation of a call to a function that has an if expression in its body. | Medium | [BSL P16](bsl_p16.rkt) | stepper |
 | HtDF L1      | Design a function to yell! | Medium | [HtDF L1](htdf_l1.rkt) | yell |
+| HtDF L2      | Design a function to calculate the area of a square. | Medium | [HtDF L2](htdf_l2.rkt) | area |
