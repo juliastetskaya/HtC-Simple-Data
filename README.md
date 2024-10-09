@@ -1,6 +1,6 @@
 # How to Code: Simple Data
 
-| #      | Description | Difficulty      | Solution | Topic |
+| #           | Description | Difficulty      | Solution | Topic |
 | ----------- | ----------- | ------------| ------------ | ------- |
 | BSL P1      | Write more arithmetic expressions.      | Easy | [BSL P1](bsl_p1.rkt) | exprs |
 | BSL P2      | Write out the step-by-step evaluation of expressions involving calls to primitives. | Medium | [BSL P2](bsl_p2.rkt) | eval |
@@ -18,5 +18,6 @@
 | BSL P14      | Write an expression that operates on images using image primitives. | Easy | [BSL P14](bsl_p14.rkt) | strs-imgs |
 | BSL P15      | Write a function that produces the larger of two given numbers. | Easy | [BSL P15](bsl_p15.rkt) | fun-def |
 | BSL P16      | Step by step evaluation of a call to a function that has an if expression in its body. | Medium | [BSL P16](bsl_p16.rkt) | stepper |
-| HtDF L1      | Design a function to yell! | Medium | [HtDF L1](htdf_l1.rkt) | yell |
-| HtDF L2      | Design a function to calculate the area of a square. | Medium | [HtDF L2](htdf_l2.rkt) | area |
+| HtDF L1      | Design a function to yell! | Easy | [HtDF L1](htdf_l1.rkt) | yell |
+| HtDF L2      | Design a function to calculate the area of a square. | Easy | [HtDF L2](htdf_l2.rkt) | area |
+| HtDF L3      | Design a function to calculate the area of an image. | Easy | [HtDF L3](htdf_l3.rkt) | img-area |
