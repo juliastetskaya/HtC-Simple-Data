@@ -21,3 +21,4 @@
 | HtDF L1      | Design a function to yell! | Easy | [HtDF L1](htdf_l1.rkt) | yell |
 | HtDF L2      | Design a function to calculate the area of a square. | Easy | [HtDF L2](htdf_l2.rkt) | area |
 | HtDF L3      | Design a function to calculate the area of an image. | Easy | [HtDF L3](htdf_l3.rkt) | img-area |
+| HtDF L4      | Design a function to determine if an image is tall. | Easy | [HtDF L4](htdf_l4.rkt) | tall |

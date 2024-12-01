@@ -9,7 +9,7 @@
 
 (require 2htdp/image)
 
-;; Image -> Number
+;; Image -> Natural
 ;; Produce the area of the given image
 (check-expect (image-area (rectangle 5 2 "solid" "red")) 10)
 (check-expect (image-area (square 7 "solid" "blue")) (* 7 7))
