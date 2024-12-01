@@ -23,3 +23,4 @@
 | HtDF L3      | Design a function to calculate the area of an image. | Easy | [HtDF L3](htdf_l3.rkt) | img-area |
 | HtDF L4      | Design a function to determine if an image is tall. | Easy | [HtDF L4](htdf_l4.rkt) | tall |
 | HtDF P1      | Design a function to summon items. | Easy | [HtDF P1](htdf_p1.rkt) | full |
+| HtDF P2      | Design a function to check if length of a string is less than 5. | Easy | [HtDF P2](htdf_p2.rkt) | full |
