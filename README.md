@@ -28,3 +28,4 @@
 | HtDF P4      | Write more than one stub for a function given its signature and purpose. | Easy | [HtDF P4](htdf_p4.rkt) | full |
 | HtDF P5      | Design a function to produce a blue solid triangle of a given size. | Easy | [HtDF P5](htdf_p5.rkt) | full |
 | HtDF P6      | Fix the error(s) in a function that doubles a given number. | Easy | [HtDF P6](htdf_p6.rkt) | full |
+| HtDF P7      | Design a function to create a square based on the given colour. | Easy | [HtDF P7](htdf_p7.rkt) | full |
