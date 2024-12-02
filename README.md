@@ -29,3 +29,4 @@
 | HtDF P5      | Design a function to produce a blue solid triangle of a given size. | Easy | [HtDF P5](htdf_p5.rkt) | full |
 | HtDF P6      | Fix the error(s) in a function that doubles a given number. | Easy | [HtDF P6](htdf_p6.rkt) | full |
 | HtDF P7      | Design a function to create a square based on the given colour. | Easy | [HtDF P7](htdf_p7.rkt) | full |
+| HtDF P8      | Design a function to produce a question by adding "?" to the end of a given string. | Easy | [HtDF P8](htdf_p8.rkt) | full |
