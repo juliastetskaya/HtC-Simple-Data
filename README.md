@@ -25,3 +25,4 @@
 | HtDF P1      | Design a function to summon items. | Easy | [HtDF P1](htdf_p1.rkt) | full |
 | HtDF P2      | Design a function to check if length of a string is less than 5. | Easy | [HtDF P2](htdf_p2.rkt) | full |
 | HtDF P3      | Design a function to put a box around a given image. | Medium | [HtDF P3](htdf_p3.rkt) | full |
+| HtDF P4      | Write more than one stub for a function given its signature and purpose. | Easy | [HtDF P4](htdf_p4.rkt) | full |
