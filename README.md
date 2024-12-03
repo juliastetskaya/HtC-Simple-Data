@@ -33,3 +33,4 @@
 | HtDF P9      | Design a function to calculate the distance between two points. | Hard | [HtDF P9](htdf_p9.rkt) | full |
 | HtDD L1      | Design a data definition for all the cities in the world. | Easy | [HtDD L1](htdd_l1.rkt) | atomic |
 | HtDD L2      | Given the data definition for City, design a function that checks if a given city is the best city in the world. | Easy | [HtDD L2](htdd_l2.rkt) | atomic-htdf |
+| HtDD L3      | Design a data definition for seat numbers in a theatre. | Easy | [HtDD L3](htdd_l3.rkt) | interv |
