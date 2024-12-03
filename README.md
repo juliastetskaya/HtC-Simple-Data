@@ -31,3 +31,4 @@
 | HtDF P7      | Design a function to create a square based on the given colour. | Easy | [HtDF P7](htdf_p7.rkt) | full |
 | HtDF P8      | Design a function to produce a question by adding "?" to the end of a given string. | Medium | [HtDF P8](htdf_p8.rkt) | full |
 | HtDF P9      | Design a function to calculate the distance between two points. | Hard | [HtDF P9](htdf_p9.rkt) | full |
+| HtDD L1      | Design a data definition for all the cities in the world. | Easy | [HtDD L1](htdd_l1.rkt) | atomic |
