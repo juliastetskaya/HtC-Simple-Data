@@ -34,4 +34,5 @@
 | HtDD L1      | Design a data definition for all the cities in the world. | Easy | [HtDD L1](htdd_l1.rkt) | atomic |
 | HtDD L2      | Given the data definition for City, design a function that checks if a given city is the best city in the world. | Easy | [HtDD L2](htdd_l2.rkt) | atomic-htdf |
 | HtDD L3      | Design a data definition for seat numbers in a theatre. | Easy | [HtDD L3](htdd_l3.rkt) | interv |
+| HtDD L6      | Given the data definition for SeatNum, design a function that determines if the seat number is on the aisle. | Easy | [HtDD L3](htdd_l6.rkt) | interv-htdf |
 | HtDD P5      | Discuss the importance of following style rules and fix a given data definition to follow them. | Easy | [HtDD P5](htdd_p5.rkt) | interv |
