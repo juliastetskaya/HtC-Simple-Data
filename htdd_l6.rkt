@@ -25,9 +25,9 @@
 
 ;; SeatNum -> Boolean
 ;; Produce true if the given seat is the aisle seat
-(check-expect (aisle? 1) true)
-(check-expect (aisle? 32) true)
-(check-expect (aisle? 15) false)
+(check-expect (aisle? SN1) true)
+(check-expect (aisle? SN3) true)
+(check-expect (aisle? SN2) false)
 
 ;(define (aisle? sn) false)       ;; This is the stub
 
