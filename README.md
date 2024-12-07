@@ -39,6 +39,7 @@
 | HtDD L6      | Given the data definition for SeatNum, design a function that determines if the seat number is on the aisle. | Easy | [HtDD L6](htdd_l6.rkt) | interv-htdf |
 | HtDD L7      | Given the data definition for LetterGrade, design a function that produces the next highest grade. | Easy | [HtDD L7](htdd_l7.rkt) | enum-htdf |
 | HtDD P1      | Design a data definition and a function for a program to track a ski lodge's payroll. | Easy | [HtDD P1](htdd_p1.rkt) | interv-htdf |
-| HtDD P2      | Design a data definition and a function for a program to classify buildings in downtown Vancouver. | Easy | [HtDD P2](htdd_p2.rkt) | enum-htdf |
+| HtDD P2      | Design a data definition and a function for a program to classify buildings in downtown Vancouver. | Medium | [HtDD P2](htdd_p2.rkt) | enum-htdf |
 | HtDD P4      | Fix error(s) in the revised data definition for LetterGrade. | Easy | [HtDD P4](htdd_p4.rkt) | enum |
 | HtDD P5      | Discuss the importance of following style rules and fix a given data definition to follow them. | Easy | [HtDD P5](htdd_p5.rkt) | interv |
+| HtDD P6      | Design a data definition and a function to determine whether a bike route is exclusively designated for bicycles. | Medium | [HtDD P6](htdd_p6.rkt) | enum-htdf |
