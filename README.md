@@ -38,4 +38,5 @@
 | HtDD L5      | Design a data definition to represent the current state of a New Year's Eve countdown. | Medium | [HtDD L5](htdd_l5.rkt) | itemz |
 | HtDD L6      | Given the data definition for SeatNum, design a function that determines if the seat number is on the aisle. | Easy | [HtDD L6](htdd_l6.rkt) | interv-htdf |
 | HtDD P1      | Design a data definition and a function for a program to track a ski lodge's payroll. | Easy | [HtDD P1](htdd_p1.rkt) | interv-htdf |
+| HtDD P4      | Fix error(s) in the revised data definition for LetterGrade. | Easy | [HtDD P4](htdd_p4.rkt) | enum |
 | HtDD P5      | Discuss the importance of following style rules and fix a given data definition to follow them. | Easy | [HtDD P5](htdd_p5.rkt) | interv |
