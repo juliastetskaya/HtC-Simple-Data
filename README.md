@@ -38,6 +38,7 @@
 | HtDD L5      | Design a data definition to represent the current state of a New Year's Eve countdown. | Medium | [HtDD L5](htdd_l5.rkt) | itemz |
 | HtDD L6      | Given the data definition for SeatNum, design a function that determines if the seat number is on the aisle. | Easy | [HtDD L6](htdd_l6.rkt) | interv-htdf |
 | HtDD L7      | Given the data definition for LetterGrade, design a function that produces the next highest grade. | Easy | [HtDD L7](htdd_l7.rkt) | enum-htdf |
+| HtDD L8      | Given the data definition for Countdown, design a function that produces an image of the current state. | Medium | [HtDD L8](htdd_l8.rkt) | itemz-htdf |
 | HtDD P1      | Design a data definition and a function for a program to track a ski lodge's payroll. | Easy | [HtDD P1](htdd_p1.rkt) | interv-htdf |
 | HtDD P2      | Design a data definition and a function for a program to classify buildings in downtown Vancouver. | Medium | [HtDD P2](htdd_p2.rkt) | enum-htdf |
 | HtDD P4      | Fix error(s) in the revised data definition for LetterGrade. | Easy | [HtDD P4](htdd_p4.rkt) | enum |
