@@ -56,7 +56,7 @@
 
 ;(define (rocket-descent-to-msg rd) "")   ;; This is the stub
 
-;<use template from Countdown>
+;<use template from RocketDescent>
 (define (rocket-descent-to-msg rd)
   (cond [(number? rd)
          (string-append "Altitude is " (number->string rd) " kms.")]
