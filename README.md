@@ -43,3 +43,4 @@
 | HtDD P4      | Fix error(s) in the revised data definition for LetterGrade. | Easy | [HtDD P4](htdd_p4.rkt) | enum |
 | HtDD P5      | Discuss the importance of following style rules and fix a given data definition to follow them. | Easy | [HtDD P5](htdd_p5.rkt) | interv |
 | HtDD P6      | Design a data definition and a function to determine whether a bike route is exclusively designated for bicycles. | Medium | [HtDD P6](htdd_p6.rkt) | enum-htdf |
+| HtDD P8      | Design a function based on a given data definition for compass directions. | Easy | [HtDD P8](htdd_p8.rkt) | enum-htdf |
