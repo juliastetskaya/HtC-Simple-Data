@@ -48,3 +48,4 @@
 | HtDD P7      | Fix the error(s) in a function we have developed for the Rocket program. | Easy | [HtDD P7](htdd_p7.rkt) | itemz-htdf |
 | HtDD P8      | Design a function based on a given data definition for compass directions. | Easy | [HtDD P8](htdd_p8.rkt) | enum-htdf |
 | HtDD P9      | Design a data definition to represent airline dinners, and a function to let flight attendants know a passenger's choice. | Medium | [HtDD P9](htdd_p9.rkt) | enum-htdf |
+| HtDW L1      | A cat that moves across the screen. | Medium | [HtDW L1](htdw_l1.rkt) | da, main, wish-list |
