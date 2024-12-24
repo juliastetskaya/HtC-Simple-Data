@@ -51,3 +51,4 @@
 | HtDW L1      | A cat that moves across the screen. | Medium | [HtDW L1](htdw_l1.rkt) | da, main, wish-list |
 | HtDW L2      | Given an existing world program, add a mouse handler to reset the position of the moving cat. | Medium | [HtDW L2](htdw_l2.rkt) | add-key |
 | HtDW P1      | Design an animation of a countdown. | Easy | [HtDW P1](htdw_p1.rkt) | da, main, wish-list |
+| HtDW P2      | Design an animation of a countdown. | Medium | [HtDW P2](htdw_p2.rkt) | da, main, wish-list |
