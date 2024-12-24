@@ -53,3 +53,4 @@
 | HtDW P1      | Design an animation of a countdown. | Easy | [HtDW P1](htdw_p1.rkt) | da, main, wish-list |
 | HtDW P2      | Design an animation of a countdown. | Medium | [HtDW P2](htdw_p2.rkt) | da, main, wish-list |
 | Compound P1  | Design a compound data definition to represent movies, and a function to compare their release dates. | Medium | [Compound P1](compound_p1.rkt) | dd |
+| Compound P3  | Design a compound data definition to represent students, and a function to monitor their allergies. | Medium | [Compound P3](compound_p3.rkt) | dd |
